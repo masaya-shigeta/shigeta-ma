@@ -14,7 +14,7 @@ const Home: NextPage = () => {
           />
         </div>
       </div>
-      <div className="mx-auto my-2 max-w-3xl px-6 text-center text-white text-2xl">
+      <div className="mx-auto my-2 max-w-3xl px-6 text-center text-2xl">
         MASAYA SHIGETA
       </div>
       <div className="h-full mt-8 text-center">
@@ -24,7 +24,7 @@ const Home: NextPage = () => {
       </div>
       <div className="h-full mt-8 text-center">
         <a href="https://github.com/masaya-shigeta" className="inline-block">
-          <GitHubIcon height={48} width={48} fill={"white"} />
+          <GitHubIcon height={48} width={48} />
         </a>
       </div>
     </>
